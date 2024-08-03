@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="peso_informado_0kg">Peso informado: 0Kg</string>
+    <string name="diagnostico">Diagnostico</string>
+    <string name="altura_informada_0_m">Altura informada: 0 m</string>
+    <string name="digite_peso_e_altura">Digite peso e altura</string>
+</resources>
